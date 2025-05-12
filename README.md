@@ -72,7 +72,7 @@ This project is a simple yet advanced Database Management System (DBMS) implemen
 ## **Installation and Steps to Run**
 1. **Clone the Repository**:
    ```bash
-   https://github.com/Maaahmwd19/BashDB-Database-Management-System-Using-Bash-Scripts.git
+   https://github.com/ToniEmad/BashDB-Database-Management-System-Using-Bash-Scripts.git
    cd BashDB-Database-Management-System-Using-Bash-Scripts
 
 2. **Make the Script Executable**:
